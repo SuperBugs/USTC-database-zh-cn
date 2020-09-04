@@ -7,3 +7,5 @@
   * [第一节](md/第一章/first-section.md)
 * [第二章](md/第二章.md)
   * [第一节](md/第二章/first-section.md)
+* [第三章](md/第三章.md)
+  * [第一节](md/第三章/first-section.md)
