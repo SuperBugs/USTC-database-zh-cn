@@ -73,7 +73,7 @@ XXX中文手册
 ## 贡献者（按参与时间排序）
 
 - [Al](https://github.com/SuperBugs)
-- 
+- [QinHu](https://www.baidu.com)
 （Fork 之后自行添加到最后）
 ## 开源协议
 
