@@ -22,7 +22,7 @@
 - 文件名为[英文课件](http://222.195.93.99:82/db/#/ppt)对应文章标题（即下面列出的项目翻译目录）的`翻译名称`。
 - 对于下级子页面文档，将其放在以父级文档名称命名的文件夹下面。
 
-例如：`ER图-Example Database Application (COMPANY)` 这节内容，对应 `md/ER图` 这个文件夹下的 `公司数据库应用实例.md` 文件。
+例如：`基础-Introduction and Conceptual Modeling` 这节内容，对应 `md/基础` 这个文件夹下的 `简介和概念模型.md` 文件。
 
 ### 第二阶段
 
