@@ -1,48 +1,29 @@
-# 目录
+# Table of contents
 
 * [简介](README.md)
 * [原课件地址](http://222.195.93.99:82/db/#/ppt)
+* [基础](ji-chu/README.md)
+  * [简介和概念模型](ji-chu/jian-jie-he-gai-nian-mo-xing.md)
+* [DB系统结构](db-xi-tong-jie-gou/README.md)
+  * [数据库系统概念和体系结构](db-xi-tong-jie-gou/shu-ju-ku-xi-tong-gai-nian-he-ti-xi-jie-gou.md)
+* [ER图](er-tu/README.md)
+  * [公司数据库应用实例](er-tu/gong-si-shu-ju-ku-ying-yong-shi-li.md)
+  * [ER模型概念](er-tu/er-mo-xing-gai-nian.md)
+  * [ER图-表示法](er-tu/er-tu-biao-shi-fa.md)
+  * [公司模式的ER图](er-tu/gong-si-mo-shi-de-er-tu.md)
+  * [替代表示法-UML类图和其它](er-tu/ti-dai-biao-shi-fa-uml-lei-tu-he-qi-ta.md)
+* [增强ER图](zeng-qiang-er-tu.md)
+* [关系模型](guan-xi-mo-xing.md)
+* [关系代数](guan-xi-dai-shu.md)
+* [ER图与关系DB](er-tu-yu-guan-xi-db.md)
+* [SQL](sql.md)
+* [SQL进阶](sql-jin-jie.md)
+* [磁盘与文件](ci-pan-yu-wen-jian.md)
+* [文件索引](wen-jian-suo-yin.md)
+* [查询优化](cha-xun-you-hua.md)
+* [DB设计实践](db-she-ji-shi-jian.md)
+* [事务](shi-wu.md)
+* [并发控制](bing-fa-kong-zhi.md)
+* [恢复技术](hui-fu-ji-shu.md)
+* [NoSQL\(TAB\)](nosql-tab.md)
 
-
-* [基础](summary/基础.md)
-  * [简介和概念模型](md/基础/简介和概念模型.md)
-
-
-* [DB系统结构](summary/DB系统结构.md)
-  * [数据库系统概念和体系结构](md/DB系统结构/数据库系统概念和体系结构.md)
-
-
-* [ER图](summary/ER图.md)
-  * [公司数据库应用实例](md/ER图/公司数据库应用实例.md)
-  * [ER模型概念](md/ER图/ER模型概念.md)
-  * [ER图-表示法](md/ER图/ER图-表示法.md)
-  * [公司模式的ER图](md/ER图/公司模式的ER图.md)
-  * [替代表示法-UML类图和其它](md/ER图/替代表示法-UML类图和其它.md)
-  
-* [增强ER图](md/第四章.md)
-
-* [关系模型](md/第四章.md)
-
-* [关系代数](md/第四章.md)
-
-* [ER图与关系DB](md/第四章.md)
-
-* [SQL](md/第四章.md)
-
-* [SQL进阶](md/第四章.md)
-
-* [磁盘与文件](md/第四章.md)
-
-* [文件索引](md/第四章.md)
-
-* [查询优化](md/第四章.md)
-
-* [DB设计实践](md/第四章.md)
-
-* [事务](md/第四章.md)
-
-* [并发控制](md/第四章.md)
-
-* [恢复技术](md/第四章.md)
-
-* [NoSQL(TAB)](md/第四章.md)
